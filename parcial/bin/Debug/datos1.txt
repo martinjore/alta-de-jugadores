@@ -1,0 +1,8 @@
+28770219;crespo;hernan;22121980;torneo local;delantero;disponible;
+28770218;riquelme;juan roman;5__71981;torneo local;mediocampista;disponible;
+33221770;sand;jose;_43_1987;torneo local;delantero;disponible;
+34290325;buonanota;enano;05071990;torneo local;mediocampista;En recuperacion;
+36457918;messi;lionel;05101989;extranjero;delantero;Disponible;
+35780503;saviola;javier;21091988;extranjero;delantero;Disponible;
+28770231;redondi;ernesto;09031988;torneo local;mediocampista;Disponible;
+33458940;regondi;pablo;05031990;torneo local;arquero;Disponible;

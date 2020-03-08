@@ -1,0 +1,11 @@
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\bin\Debug\parcial.exe
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\bin\Debug\parcial.pdb
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\bin\Debug\parcial.xml
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\obj\Debug\parcial.vbprojAssemblyReference.cache
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\obj\Debug\parcial.Rb_alta_de_jugadores.resources
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\obj\Debug\parcial.Form1.resources
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\obj\Debug\parcial.Resources.resources
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\obj\Debug\parcial.vbproj.GenerateResource.cache
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\obj\Debug\parcial.exe
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\obj\Debug\parcial.xml
+C:\Users\Martin\Documents\pendrive\mis archivos\lo ultimo de la facultad\facultad\visual basic\parcial\parcial\obj\Debug\parcial.pdb

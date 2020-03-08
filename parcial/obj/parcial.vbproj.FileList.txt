@@ -1,0 +1,11 @@
+obj\Debug\parcial.exe
+obj\Debug\parcial.xml
+obj\Debug\parcial.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\parcial.Rb_alta_de_jugadores.resources
+obj\Debug\parcial.Form1.resources
+obj\Debug\parcial.Resources.resources
+obj\Debug\parcial.vbproj.GenerateResource.Cache
+bin\Debug\parcial.exe
+bin\Debug\parcial.pdb
+bin\Debug\parcial.xml

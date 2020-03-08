@@ -1,0 +1,4 @@
+arquero;
+defensor;
+mediocampista;
+delantero;
